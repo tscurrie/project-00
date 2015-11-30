@@ -20,10 +20,10 @@ $(function(){
 		switch (e.keyCode)
 		{
 			case 65:
-				$("#playerOne").css('left', position.left + 40 + 'px');
+				$("#playerOne").css('left', position.left + 60 + 'px');
 				break;
 			case 76:
-				$("#playerTwo").css('left', position2.left + 40 + 'px');
+				$("#playerTwo").css('left', position2.left + 60 + 'px');
 				break;
 		}	
 		// if (playerOne <= 110){
